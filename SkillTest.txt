@@ -1,0 +1,100 @@
+<table cellspacing=30>
+  <th align=left>Domain</th>
+  <th align=left>Experience</th>
+  <tr>
+    <td>Python3</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>HTML5</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>CSS</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>Java</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>C Language</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>C++</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>Kubernetes</td>
+    <td>Beginner</td>
+  </tr>
+  <tr>
+    <td>Git</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>Flask</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>PHP</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>Bash Programming</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>Linux</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>MySQL</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>MongoDB</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>Adobe Photoshop</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>Adobe After Effects</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>3DS Max</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>Autodesk Maya</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>Adobe Flash</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>Adobe XD</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>Adobe Illustrator</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>NCH VideoPad</td>
+    <td>Master</td>
+  </tr>
+  <tr>
+    <td>Golang</td>
+    <td>Intermediate</td>
+  </tr>
+</table>
